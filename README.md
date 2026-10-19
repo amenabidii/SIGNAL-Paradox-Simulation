@@ -1,6 +1,6 @@
 # SIGNAL: The Observer Paradox
 
-**DRAFT — review, test and improve with both team members.** A C++17 console mystery / turn-based simulation, set in fictional ECHO-7 in Egypt's Western Desert (2028).
+**This is still a draft for my CS2 class project** A C++17 console mystery / turn-based simulation, set in fictional ECHO-7 in Egypt's Western Desert (2028).
 
 The story treats the flying Tesla Roadster as **fiction**. It is not a real-world product announcement. The actual Tesla Roadster launched into space in 2018 is the source of a second interpretation of the signal.
 
